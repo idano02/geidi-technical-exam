@@ -1,0 +1,83 @@
+[
+    {
+      "id": 0,
+      "name": "Gwen ko",
+      "age": "20",
+      "imageUrl": "https://img.freepik.com/premium-photo/smiling-looking-friendly-showing-number-one-first-with-hand-forward-counting-down_1194-402703.jpg",
+      "course": "education",
+      "year": "3rd year"
+    },
+    {
+      "id": 1,
+      "name": "Mike tyson",
+      "age": "22",
+      "course": "Engineering",
+      "imageUrl": "https://assets-wp.boundless.com/uploads/2018/07/male-man-asian-student-college-smiling-solo-1.png",
+      "year": "4th year"
+    },
+    {
+      "id": 2,
+      "name": "Joel ki",
+      "age": "23",
+      "imageUrl": "https://img.freepik.com/free-photo/university-study-abroad-lifestyle-concept-happy-rejoicing-asian-male-student-with-braces-triumphing-pass-exams-finish-final-semester-fist-pump-shouting-yes-with-satisfaction-hold-laptop_1258-55876.jpg?w=996&t=st=1674802479~exp=1674803079~hmac=1b1fd64565b9dd4e837b50b78cef4089f9fa0dae539eba2615df9d2680e0b46a",
+      "course": "crim",
+      "year": "2nd year"
+    },
+    {
+      "id": 3,
+      "name": "Mark job",
+      "age": "24",
+      "imageUrl": "https://img.freepik.com/premium-photo/joyful-young-male-student-wearing-headphones-around-neck-holding-folder-note-book-looking-camera-showing-thumb-up-isolated-purple-background_141793-136033.jpg?w=996",
+      "course": "Agriculture",
+      "year": "2nd year"
+    },
+    {
+      "id": 4,
+      "name": "Li lee",
+      "age": "25",
+      "imageUrl": "https://img.freepik.com/free-photo/front-view-male-student-wearing-black-backpack-holding-copybooks-files-blue-wall_140725-42636.jpg?w=996&t=st=1674802629~exp=1674803229~hmac=cf84d3429f3dbc1b2e896325755abfffa9abebd731d6c7b1f330936933b7a0e3",
+      "course": "nautical",
+      "year": "1st year"
+    },
+    {
+      "id": 5,
+      "name": "Mary koh",
+      "age": "18",
+      "imageUrl": "https://img.freepik.com/premium-photo/portrait-smiling-beautiful-asian-woman-casual-shirt-hijab-holding-laptop-looking-camera-isolated-white-background-people-religious-lifestyle-concept_512242-2176.jpg",
+      "course": "tourism",
+      "year": "4th year"
+    },
+    {
+      "id": 6,
+      "name": "Mylah po",
+      "age": "19",
+      "imageUrl": "https://img.freepik.com/free-photo/young-girl-with-santa-hat-holding-present-with-both-hands-standing-white_179666-5471.jpg?w=996&t=st=1674802716~exp=1674803316~hmac=56d1dc348a4502112f5d897329bc14b2b3f8234396d1c02ac152eef0b3b9ac33",
+      "course": "hotel management",
+      "year": "3rd year"
+    },
+    {
+      "id": 7,
+      "name": "Lyn hu",
+      "age": "20",
+      "imageUrl": "https://img.freepik.com/premium-photo/young-pretty-woman-wearing-christmas-clothes_1194-115324.jpg?w=996",
+      "course": "education",
+      "year": "2nd year"
+    },
+    {
+      "id": 8,
+      "name": "Mikey rot",
+      "age": "23",
+      "imageUrl": "https://img.freepik.com/premium-photo/feeling-stressed-anxious-tired-frustrated-pulling-shirt-neck-looking-frustrated-with-problem_1194-464333.jpg",
+      "course": "Engineering",
+      "year": "2nd year"
+    },
+    {
+      "id": 9,
+      "name": "Nike love",
+      "age": "24",
+      "imageUrl": "https://img.freepik.com/premium-photo/close-up-portrait-confident-young-man-folded-arms-violet-wall_525549-1664.jpg",
+      "course": "hotel management",
+      "year": "3rd year"
+    }
+   
+  ]
