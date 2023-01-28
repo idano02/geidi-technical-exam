@@ -16,6 +16,7 @@ class _joelProfileState extends State<joelProfile> {
     return WillPopScope(
       onWillPop: () async => false,
       child: Scaffold(
+        resizeToAvoidBottomInset: true,
         backgroundColor: ColorSelect.scaffoldColor02,
         // appBar: AppBar(
         //   leading: Icon(Icons.arrow_back_ios_new_outlined),

@@ -14,6 +14,7 @@ class _liProfileState extends State<liProfile> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      resizeToAvoidBottomInset: true,
       backgroundColor: ColorSelect.scaffoldColor02,
       // appBar: AppBar(
       //   leading: Icon(Icons.arrow_back_ios_new_outlined),
